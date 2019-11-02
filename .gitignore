@@ -1,0 +1,12 @@
+.DS_Store
+objs/
+libft.a
+a.out
+doom-nukem
+*.o
+*.swp
+.vscode
+*.dSYM
+out.png
+latex
+html
